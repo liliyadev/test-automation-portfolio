@@ -1,5 +1,7 @@
 # 🚀 Selenium Test Automation Portfolio
 
+![Selenium Tests](https://github.com/liliyadev/test-automation-portfolio/actions/workflows/python-tests.yml/badge.svg)
+
 A Python-based Selenium Test Automation Framework built using **Pytest** and the **Page Object Model (POM)** to automate end-to-end testing of the SauceDemo web application.
 
 This project demonstrates industry best practices for building a scalable, maintainable, and reusable UI automation framework.
